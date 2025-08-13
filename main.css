@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(233, 229, 229);
+}
+div {
+    border: 3px solid black;
+    overflow: auto;
+
+}
+img {
+    width: 400px;
+    height: 250px;
+    float: left;
+}
